@@ -15,6 +15,7 @@ January 22, 2014
 * ‘[Responsive Web Design](http://alistapart.com/article/responsive-web-design)’ by Ethan Marcotte, *A List Apart*
 * *[Responsive Web Design](http://www.abookapart.com/products/responsive-web- design)* by Ethan Marcotte
 * ‘[Interesting stats](http://httparchive.org/interesting.php?a=All&l=Jan%2015%202014)’ from the *HTTP Archive*
+* [‘Performance check: CBC’s logo as pure CSS, Data URI and simple PNG on the scale’](http://bbinto.wordpress.com/2013/05/02/performance-check-the-weight-of-cbcs-logo-as-pure-css-data-uri-and-simple-png/) by Barbara Bermes
 
 ## Resources
 
