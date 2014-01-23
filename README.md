@@ -1,7 +1,8 @@
 # Improving Performance with Responsive Images
 
 Toronto Web Performance Group  
-January 22, 2014
+January 22, 2014  
+[David Newton](https://twitter.com/newtron)
 
 [View the slides at Speaker Deck](https://speakerdeck.com/newtron/improving-performance-with-responsive-images)
 
