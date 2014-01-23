@@ -13,7 +13,7 @@ January 22, 2014
 ## References
 
 * ‘[Responsive Web Design](http://alistapart.com/article/responsive-web-design)’ by Ethan Marcotte, *A List Apart*
-* *[Responsive Web Design](http://www.abookapart.com/products/responsive-web-* design)* by Ethan Marcotte
+* *[Responsive Web Design](http://www.abookapart.com/products/responsive-web- design)* by Ethan Marcotte
 * ‘[Interesting stats](http://httparchive.org/interesting.php?a=All&l=Jan%2015%202014)’ from the *HTTP Archive*
 
 ## Resources
