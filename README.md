@@ -3,6 +3,8 @@
 Toronto Web Performance Group  
 January 22, 2014
 
+[View the slides at Speaker Deck](https://speakerdeck.com/newtron/improving-performance-with-responsive-images)
+
 ## Quotes
 
 * “Good Performance *is* good design” –Brad Frost, [Performance As Design](http://bradfrostweb.com/blog/post/performance-as-design/)
